@@ -1,6 +1,6 @@
 # DmenuFM
 
-A bash script serving as a simple file manager using the dmenu dynamic menu app from suckless.org (tools.suckless.org/dmenu)
+A bash script serving as a simple file manager using the [dmenu](http://tools.suckless.org/dmenu) dynamic menu app from [suckless.org](http://suckless.org).
 
 ## Usage:
 Select directory to enter it, select file to open it, 'Esc' to exit. Entering command/app name runs it (if no file selected). Entering a command/app name after a selected file runs the command/app on the selected file. Adjust default directory, terminal/file manager command, app to open files and dmenu options in the script.
